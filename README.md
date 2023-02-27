@@ -34,8 +34,10 @@ TRAaaS is an immune system that combines the entire distributed architecture and
 - [Conferences & Meetups](#conferences--meetups)
 
 ## Projects
-* [CeresDB](https://github.com/TRaaSStack/CeresDB)  It is a time series database product based on the OceanBase distributed storage engine base. It is used to manage and store time series data, providing high-performance reading and writing, low-cost storage, and rich multi-dimensional query and analysis capabilities.
-* [Pyraformer](https://github.com/TRaaSStack/Pyraformer) Low-complexity Pyramidal Attention for Long-range Time Series Modeling and Forecasting This is the Pytorch implementation of Pyraformer (Pyramidal Attention based Transformer) in the ICLR paper
+
+* [CeresDB](https://github.com/CeresDB/ceresdb)  CeresDB is a cloud-native time-series database that aims to handle both time-series and analytic workloads efficiently.
+* [HoloInsight](https://github.com/traas-stack/holoinsight) HoloInsight is a cloud-native observability platform with a special focus on real-time log analysis and AI integration.
+* [Pyraformer](https://github.com/traas-stack/pyraformer) Low-complexity Pyramidal Attention for Long-range Time Series Modeling and Forecasting This is the Pytorch implementation of Pyraformer (Pyramidal Attention based Transformer) in the ICLR paper
 
 ## Papers
 
@@ -63,34 +65,3 @@ TRAaaS is an immune system that combines the entire distributed architecture and
 * [蚂蚁分布式系统稳定性实践](https://mp.weixin.qq.com/s/OBd3ImPmy11Wz-WxxZl-JA)
 * [蚂蚁第三代混沌工程助力风险防控提升](https://mp.weixin.qq.com/s/5MMUDktUCqUyP0roprol0A)
 
-## Culture
-
-## Community
-* Wechat
-* Dingtalk
-* Weibo
-* Twitter
-
-## Known Users
-![image](https://user-images.githubusercontent.com/1535119/172122474-438a8e4a-1f53-452f-98ab-5d99c66aa4f1.png)
-![image](https://user-images.githubusercontent.com/1535119/172122489-6b1e7a82-2c05-4a7c-8051-dc506f8e52fa.png)
-![image](https://user-images.githubusercontent.com/1535119/172122531-fbe8ec75-f30a-42af-a6a3-3f0b130bdd4e.png)
-![image](https://user-images.githubusercontent.com/1535119/173607325-8affb995-7a45-4c7a-9574-6b60bb006a4e.png)
-![image](https://user-images.githubusercontent.com/1535119/173607361-79f2c3fe-db60-4a16-93d6-6cc8d162023c.png)
-![image](https://user-images.githubusercontent.com/1535119/173607440-99df4726-eaa0-4024-9e28-3dae3d76750e.png)
-![image](https://user-images.githubusercontent.com/1535119/173607935-5fdc9e47-fefa-4a3a-98f4-d6893d8617c0.png)
-![image](https://user-images.githubusercontent.com/1535119/173608046-00df9660-5196-4e37-8e0d-53dfdfccf163.png)
-![image](https://user-images.githubusercontent.com/1535119/173607753-9ad8ade1-d6a5-493f-8c00-628058e2d06c.png)
-
-
-
-<!--
-
-**Here are some ideas to get you started:**
-![image](https://user-images.githubusercontent.com/1535119/172121661-c82920b6-04f2-43d4-8162-e76966630a50.png)
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->

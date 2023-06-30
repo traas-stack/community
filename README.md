@@ -45,7 +45,7 @@ Our main interests lie in the following areas:
 * ESEC/FSE 2022 [《Investigating and Improving Log Parsing in Practice》](https://2022.esec-fse.org/)
 * ACM International Conference on Management of Data（SIGMOD）2023 [《BALANCE: Bayesian Linear Attribution for Root Casuse Localization》](https://2023.sigmod.org/)
 * AAAI 2023 Structured Learning and Task-based Optimization for Time Series Forecasting on Hierarchies
-
+* IJCAI2023《Full Scaling Automation for Sustainable Development of Green Data Centers》
 
 ## Newsletters
 
